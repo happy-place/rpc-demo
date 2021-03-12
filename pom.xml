@@ -37,7 +37,7 @@
         <protobuf.version>3.11.4</protobuf.version>
         <netty.version>5.0.0.Alpha2</netty.version>
         <grpc.version>1.29.0</grpc.version>
-        <libthrift.version>0.13.0</libthrift.version>
+        <libthrift.version>0.14.0</libthrift.version>
         <avro.version>1.7.5</avro.version>
     </properties>
 
