@@ -34,7 +34,7 @@
         <common-io.version>2.6</common-io.version>
         <lang3.version>3.5</lang3.version>
         <cxf.version>3.1.6</cxf.version>
-        <protobuf.version>3.11.4</protobuf.version>
+        <protobuf.version>3.16.1</protobuf.version>
         <netty.version>5.0.0.Alpha2</netty.version>
         <grpc.version>1.29.0</grpc.version>
         <libthrift.version>0.13.0</libthrift.version>
