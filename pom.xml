@@ -29,7 +29,7 @@
         <log4j.version>1.2.16</log4j.version>
         <h2.version>1.4.200</h2.version>
         <mysql-connector>5.1.39</mysql-connector>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <snakeyaml.version>1.25</snakeyaml.version>
         <common-io.version>2.6</common-io.version>
         <lang3.version>3.5</lang3.version>
